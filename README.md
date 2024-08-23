@@ -3,11 +3,11 @@
 Utilize data wrangling techniques to understand the patterns in the data and visualize the major types of complaints.
 Analyze data on service request (311) calls  from New York City.
 # Tasks to Perform
-   1. Understand the dataset:
-1.1 Import the dataset
-1.2 Visualize the dataset
-1.3 Print the columns of the DataFrame
-1.4 Identify the shape of the dataset
+   1. Understand the dataset:  
+1.1 Import the dataset  
+1.2 Visualize the dataset  
+1.3 Print the columns of the DataFrame  
+1.4 Identify the shape of the dataset  
 1.5 Identify the variables with null values
    2. Perform basic data exploratory analysis:
 2.1 Draw a frequency plot to show the number of null values in each column of the DataFrame
